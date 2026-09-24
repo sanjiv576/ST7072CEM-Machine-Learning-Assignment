@@ -1,0 +1,16 @@
+/final_datasets/*
+*.csv
+*.xlsx
+*.pdf
+*.json
+
+
+.env
+.venv
+.ml_assessment_venv
+.vscode
+# Hidden directory containing Jupyter Notebook auto-saves.
+.ipynb_checkpoints/
+
+# Compiled Python bytecode automatically generated upon execution.
+__pycache__/, *.py[cod]
