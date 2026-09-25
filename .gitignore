@@ -1,4 +1,5 @@
 /final_datasets/*
+/docs/*
 *.csv
 *.xlsx
 *.pdf
