@@ -1,4 +1,8 @@
 /final_datasets/*
+!/final_datasets/
+!/final_datasets/clean_datasets/
+/final_datasets/clean_datasets/*
+!/final_datasets/clean_datasets/1_data_preparation_dataset.parquet
 /docs/*
 *.csv
 *.xlsx
